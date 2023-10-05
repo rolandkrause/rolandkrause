@@ -1,6 +1,6 @@
 # Roland Krause
 
-Bioinformatician at the University of Luxembourg. Research Scientist with the Autorisation à Diriger des Recherches. 
+Bioinformatician at the University of Luxembourg. Research Scientist with the _Autorisation à Diriger des Recherches_. 
 
 ### Topics
  * Data science and data science training 
